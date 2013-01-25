@@ -15,12 +15,20 @@ namespace GameJam
 {
     class Actor
     {
-        //Level
-        
-        public Vector2 Position;
-        public Vector2 Velocity = new Vector2(0);
 
-
+        public Vector2 Position
+        {
+            get { return position; }
+            set { position = value; }
+        }
+        public Vector2 position;
+                    
+        public Vector2 Velocity
+        {
+            get { return Velocity; }
+            set { Velocity = value; }
+        }
+        Vector2 velocity;
 
         public void Update(GameTime gameTime, KeyboardState keyboard)
         {
@@ -31,5 +39,6 @@ namespace GameJam
         {
 
         }
+
     }
 }

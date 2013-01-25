@@ -1,0 +1,6 @@
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.exe
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.pdb
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.exe
+C:\Users\gamejam\Desktop\GGJ\bearded-octo-cyril\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.pdb
